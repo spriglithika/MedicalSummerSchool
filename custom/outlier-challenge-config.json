@@ -1,0 +1,8 @@
+{
+    "team_name": "DunderMifflin",
+    "method_description": "Encoded Anomoly Detection",
+    "data_types": "Segmentation",
+    "data_dir": "CTSpine",
+    "result_dir": "results",
+    "challenge_server":  "http://fungi.compute.dtu.dk:8080"
+}

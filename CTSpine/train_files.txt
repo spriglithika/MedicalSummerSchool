@@ -1,0 +1,16 @@
+sample_1102_crop_label.nii.gz
+sample_1102_crop_warp_outlier.nii.gz
+sample_1103_crop_label.nii.gz
+sample_1102_crop_sphere_outlier_water.nii.gz
+sample_1103_crop_label_sphere_outlier_water.nii.gz
+sample_1102_crop_label_warp_outlier.nii.gz
+sample_1103_crop.nii.gz
+sample_1103_crop_warp_outlier.nii.gz
+sample_1103_crop_sphere_outlier_mean_std_inpaint.nii.gz
+sample_1103_crop_label_warp_outlier.nii.gz
+sample_1103_crop_label_sphere_outlier_mean_std_inpaint.nii.gz
+sample_1102_crop_label_sphere_outlier_mean_std_inpaint.nii.gz
+sample_1103_crop_sphere_outlier_water.nii.gz
+sample_1102_crop_sphere_outlier_mean_std_inpaint.nii.gz
+sample_1102_crop.nii.gz
+sample_1102_crop_label_sphere_outlier_water.nii.gz
